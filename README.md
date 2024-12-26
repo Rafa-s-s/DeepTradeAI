@@ -40,12 +40,10 @@ Os dados coletados são organizados em um formato unificado para facilitar o tre
 - **Saída:** Arquivos `.csv` organizados no diretório `Dataset_Final`.
 - **Funcionalidade adicional:** Identifica automaticamente o tipo de dado (OHLC ou Indicadores) e faz a união com base na coluna de data.
 
-  <p>
-  <img src="https://github.com/user-attachments/assets/d4617b1c-607b-44a3-8047-4be617c2d803" alt="Alt text" width="45%" >
-  <img src="https://github.com/user-attachments/assets/c0fdb994-2118-4c22-9503-cfffd9104a47" alt="Alt text" width="45%" >
-  <img src="https://github.com/user-attachments/assets/b650df07-792e-4c79-adaa-6113e43bcc74" alt="Alt text" width="45%" >
-</p>
 
+![mexc_trade_bot – montar_dataset py 26_12_2024 02_25_40](https://github.com/user-attachments/assets/f7759de1-d101-4dd4-b91f-f9abe4cc01f4)
+![mexc_trade_bot – historico_axs_dataset csv 26_12_2024 02_32_52](https://github.com/user-attachments/assets/406ac233-d928-4533-9471-ab5d461453a9)
+![OHLC_5m_15m_30m_1h_Binance 26_12_2024 02_34_59](https://github.com/user-attachments/assets/da273ab5-a205-42ec-9b6d-9a7aaaa6e6a9)
 ---
 
 
