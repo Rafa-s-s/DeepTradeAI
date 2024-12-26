@@ -62,7 +62,8 @@ A IA utiliza aprendizado por reforço para otimizar estratégias de trading:
   - Implementa indicadores técnicos como RSI e ATR no pipeline de dados.
   - Utiliza carteiras simuladas para testar diferentes estratégias.
   - Permite ajustes de comissão e outras variáveis para maior realismo.
-
+    
+![0 8875 _ Negocie ADA_USDT Cardano MEXC Exchange - Google Chrome 26_12_2024 03_40_39](https://github.com/user-attachments/assets/ed1bdff0-6320-4624-b1bd-e8ac1f1985f5)
 ---
 
 ## Tecnologias Utilizadas
