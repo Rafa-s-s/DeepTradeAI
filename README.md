@@ -43,7 +43,10 @@ Os dados coletados são organizados em um formato unificado para facilitar o tre
 
 ![mexc_trade_bot – montar_dataset py 26_12_2024 02_25_40](https://github.com/user-attachments/assets/f7759de1-d101-4dd4-b91f-f9abe4cc01f4)
 ![mexc_trade_bot – historico_axs_dataset csv 26_12_2024 02_32_52](https://github.com/user-attachments/assets/406ac233-d928-4533-9471-ab5d461453a9)
-![OHLC_5m_15m_30m_1h_Binance 26_12_2024 02_34_59](https://github.com/user-attachments/assets/da273ab5-a205-42ec-9b6d-9a7aaaa6e6a9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da273ab5-a205-42ec-9b6d-9a7aaaa6e6a9" alt="Alt text" width="35%">
+</p>
+
 ---
 
 
